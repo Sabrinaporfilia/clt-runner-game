@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_coletaveis",
+  "%Name":"snd_jogo",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.14002268,
+  "duration":174.60245,
   "exportDir":"",
-  "name":"snd_coletaveis",
+  "name":"snd_jogo",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_coletaveis.wav",
-  "volume":0.33,
+  "soundFile":"snd_jogo.mp3",
+  "volume":0.11,
 }

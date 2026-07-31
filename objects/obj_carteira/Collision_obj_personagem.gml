@@ -1,2 +1,9 @@
 instance_destroy();
-room_restart();
+
+
+global.player_life -= 1;
+
+if(global.player_life = 0) {
+ global.perdeu = true;
+}
+
