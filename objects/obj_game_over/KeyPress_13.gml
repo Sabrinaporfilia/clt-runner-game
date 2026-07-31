@@ -1,4 +1,11 @@
 global.player_life = 3
+
+
+if(global.points >= global.recorde) {
+	
+	global.recorde = global.points
+}
+
 global.points = 0;
 global.perdeu = false;
 global.vel_background = 1;

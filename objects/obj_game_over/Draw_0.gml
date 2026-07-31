@@ -23,3 +23,4 @@ draw_text(86, 180, "APERTE ENTER PARA RESTART")
 
 draw_set_halign(-1)
 draw_set_valign(-1)
+draw_set_colour(c_white)

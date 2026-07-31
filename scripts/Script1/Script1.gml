@@ -1,5 +1,6 @@
 global.player_life = 3;
 global.points = 0
+global.recorde = 0
 global.perdeu = false;
 global.vel_coletaveis = 1;
 global.vel_personagem = 1;
